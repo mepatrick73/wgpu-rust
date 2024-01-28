@@ -1,1 +1,2 @@
-"# wgpu-rust" 
+# wgpu-rust 
+This is a project for experimenting with rust and webgpu. This is not anything serious and is there to learn both these technologies. I will probably make a proper project later on using both these things :).
